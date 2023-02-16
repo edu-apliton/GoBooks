@@ -156,7 +156,7 @@ No matter your level of experience, you'll learn how to think like a Go develope
 - Know which Go features you should use sparingly or not at all
 
 
-### [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
+### (In Progress) [Pro Go](https://link.springer.com/book/10.1007/978-1-4842-7355-5)
 
 <img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-7355-5" width="120px"/>
 
@@ -204,7 +204,7 @@ In Shipping Go you will learn how to:
 **Advanced Books**
 ---
 
-### [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007)
+### (In Progress) [Microservices with Go](https://www.packtpub.com/product/microservices-with-go/9781804617007)
 <img src="https://static.packt-cdn.com/products/9781804617007/cover/smaller" width="120px"/>
 
 This book covers the key benefits and common issues of microservices, helping you understand the problems microservice architecture helps to solve, the issues it usually introduces, and the ways to tackle them.
