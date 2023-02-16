@@ -13,40 +13,6 @@ Awesome Go Books [![Build Status](https://github.com/dariubs/GoBooks/actions/wor
 **Starter Books**
 ----
 
-### [The Little Go Book](https://www.openmymind.net/The-Little-Go-Book/) *Free*
-
-<img src="https://www.openmymind.net/assets/go/title.png" width="120px"/>
-
-The Little Go Book is a free introduction to Google's Go programming language. It's aimed at developers who might not be quite comfortable with the idea of pointers and static typing. It's longer than the other Little books, but hopefully still captures that little feeling.
-
-### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
-
-<img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
-
-This book is a short, concise introduction to computer programming using the language Go. Designed by Google, Go is a general purpose programming language with modern features, clean syntax and a robust well-documented common library, making it an ideal language to learn as your first programming language.
-
-This book is free to [read online](http://www.golang-book.com/) or [pdf form](http://www.golang-book.com/public/pdf/gobook.pdf).
-
-### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
-
-<img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
-
-This companion book contains material initially written specifically for this event as well as content from Google & the Go team under Creative Commons Attribution 3.0 License and code licensed under a BSD license.
-
-### [Learning Go](http://www.miek.nl/go) *Free*
-
-<img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
-
-A online book to start learning Golang. It features numerous exercises (and answers).
-
-The [markdown source is available on Github](https://github.com/miekg/learninggo).
-
-### [Go for Javascript Developers](https://github.com/pazams/go-for-javascript-developers) *Free*
-
-<img src="https://raw.githubusercontent.com/pazams/go-for-javascript-developers/master/src/images/thumb.png" width="120px"/>
-
-This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.
-
 ### [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/) *Free*
 
 <img src="https://raw.githubusercontent.com/quii/learn-go-with-tests/master/epub-cover-small.png" width="120px"/>
