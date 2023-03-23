@@ -305,7 +305,7 @@ Learn idiomatic, efficient, clean, and extensible Go design and concurrency patt
 
 In Black Hat Go, you'll learn how to write powerful and effective penetration testing tools in Go, a language revered for its speed and scalability. Start off with an introduction to Go fundamentals like data types, control structures, and error handling; then, dive into the deep end of Go’s offensive capabilities.
 
-### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
+### [IN PROGRESS][Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
