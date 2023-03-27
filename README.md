@@ -255,7 +255,7 @@ It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Comm
 The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
-### [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
+### (IN PROGRESS) [Network Programming with Go](https://link.springer.com/book/10.1007/978-1-4842-2692-6)
 
 <a href="https://link.springer.com/book/10.1007/978-1-4842-2692-6"><img src="https://media.springernature.com/w306/springer-static/cover-hires/book/978-1-4842-2692-6" width="120px"/></a>
 
