@@ -49,7 +49,7 @@ It assumes no prior knowledge.
 Each chapter contains test questions with detailed answers.
 The HTML version is free. You can support the author by buying the PDF or Paper version.
 
-### [Go in Action](https://www.manning.com/books/go-in-action)
+### [Go in Action](https://www.manning.com/books/go-in-action) (NEED TO READ)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
