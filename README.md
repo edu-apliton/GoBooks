@@ -269,12 +269,6 @@ Beyond the fundamentals, Network Programming with Go covers key networking and s
 
 Network Programming with Go will help you leverage Go to write secure, readable, production-ready network code. Network Programming with Go is all you'll need to take advantage of Go's built-in concurrency, rapid compiling, and rich standard library.
 
-### [Mastering Concurrency in Go](https://www.amazon.com/Mastering-Concurrency-Go-Nathan-Kozyra/dp/1783983485)
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/51ZTqE7xACL._SX404_BO1,204,203,200_.jpg" width="120px"/>
-
-This book will take you through the history of concurrency, how Go utilizes it, how Go differs from other languages, and the features and structures of Go's concurrency core. Each step of the way, the book will present real, usable examples with detailed descriptions of the methodologies used. By the end, you will feel comfortable designing a safe, data-consistent, high-performance concurrent application in Go.
-
 ### [Go in Practice](http://www.manning.com/butcher/)
 
 <img src="https://images.manning.com/360/480/resize/book/4/cd81ad9-b07a-4f57-8aa2-9b4c8cede836/Butcher-GoinP-HI.png" width="120px"/>
