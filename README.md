@@ -177,7 +177,7 @@ Some of the key things this book will teach you are how to write Go software to 
 
 By the end of this Go for DevOps book, you'll understand how to apply development principles to automate operations and provide operational insights using Go, which will allow you to react quickly to resolve system failures before your customers realize something has gone wrong.
 
-### [gRPC Microservices in Go](https://shortener.manning.com/44lB)
+###  [IN PROGRESS] [gRPC Microservices in Go](https://shortener.manning.com/44lB)
 
 <img src="https://images.manning.com/360/480/resize/book/0/fb100d0-fa71-4eb2-bbd9-572eadb5b3a4/Babal-MEAP-HI.png" width="120px"/>
 
